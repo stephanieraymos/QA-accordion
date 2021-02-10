@@ -7,6 +7,7 @@ const Question = ({ title, info }) => {
         <h4>{title}</h4>
         <button className="btn">Button</button>
       </header>
+      <p>{info}</p>
     </article>
   );
 };
