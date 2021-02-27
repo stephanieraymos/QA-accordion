@@ -1,2 +1,5 @@
 # QA-accordion
-Questions and answers with accordion using React hooks 
+
+## [Live Project](https://qa-accordion.netlify.app/)
+
+### Questions and answers with accordion using React hooks 
